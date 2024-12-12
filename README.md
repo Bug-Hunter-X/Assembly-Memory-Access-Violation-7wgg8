@@ -1,0 +1,1 @@
+This repository contains an example of a common assembly programming error. The bug involves attempting to access memory at addresses that may be outside the bounds of allocated memory.  This can lead to segmentation faults and program crashes. The solution demonstrates how to implement bounds checking to prevent this type of error.
